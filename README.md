@@ -5,7 +5,7 @@ A native Android flashcard quiz app built with Kotlin in Android Studio.
 **Author:** Kagiso Lionel Musuko
 **Module:** IMAD5112
 
-> Video demonstration: **[PASTE YOUR UNLISTED YOUTUBE LINK HERE]**
+> Video demonstration: **[watch the demo video](https://youtu.be/CbvH9VEv7PE)**
 
 ---
 
